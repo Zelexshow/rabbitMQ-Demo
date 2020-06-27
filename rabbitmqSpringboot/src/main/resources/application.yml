@@ -1,0 +1,7 @@
+srping:
+  application:
+    name: rabbitmq-springboot
+    host: 127.0.0.1
+    username: user1
+    password: user
+    virtual-host: /test
